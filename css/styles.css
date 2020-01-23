@@ -1,0 +1,76 @@
+body {
+
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #f3f3f3;
+}
+
+img {
+
+    width: 12%;
+    border-radius: 100%;
+}
+
+h6 {
+
+    font-weight: bold;
+}
+
+.avatar {
+
+    width: 30%;
+    border-radius: 100%;
+}
+
+.section {
+
+    margin: 10% 15%;
+}
+
+.section-row {
+
+    text-align: left;
+
+    margin: 100px 0;
+}
+
+.section-image {
+
+    float: left;
+    margin-right: 20px;
+}
+
+.carousel-image {
+
+    border-radius: 0;
+    width: 50%;
+}
+
+/* ******************************** TOP SECTION ************************************* */
+
+.top-section {
+
+    margin: 10% 15%;
+}
+
+.top-section h1 {
+
+    margin: 50px 0;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
+/* ******************************** ORG SECTION ************************************* */
+
+.org-section img {
+
+    margin: 30px 0;
+}
+
+/* ******************************** FOOTER SECTION ************************************* */
+
+.footer {
+
+    background-color: #e8d4b4;
+    padding: 50px 0;
+}
